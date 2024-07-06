@@ -10,7 +10,7 @@
 
 <h3>owning tools:</h3>
 
-![TOOLS](https://skillicons.dev/icons?i=nextjs,vite,ps,ae,java,php,unreal,visualstudio,blender,vscode,dotnet,git,github,robloxstudio,unity)
+![TOOLS](https://skillicons.dev/icons?i=vite,ps,ae,java,php,unreal,visualstudio,blender,vscode,dotnet,git,github,robloxstudio,unity)
 
 <h3>other:</h3>
 
